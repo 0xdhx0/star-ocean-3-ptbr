@@ -26,8 +26,8 @@ discos), o guia `LEIA-ME.txt`, os códigos para conferência e os termos de uso.
 |---|---|---|
 | `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `8871250c60f715a75c5169e6095881248b3504e1fd513e2c7fa4b4c8ea435de9` |
 | `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `2da5385b645c3ff399703fe9441da8fcda871559b3827d44d5d4b0adc9af74c9` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `112220d61b378100a22d9ab887555c7a96be6bad6f6c261b0810a058429ec121` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `385b8e1b5e459907a5115405a5dfb796c991597f4c89772d5f9552e58a92a340` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `967a85573fd20a7a5ce8b0daa4957a532f91ac1ecdba3b1849cae1a3ec798a64` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `467e681cf7a47e6a0151610e00288bd06963a9159cdf8dffc70beccc68a711f4` |
 
 Como aplicar: veja **Instalação**, mais abaixo.
 
@@ -35,8 +35,10 @@ Como aplicar: veja **Instalação**, mais abaixo.
 
 | | **Nomes Traduzidos** | **Nomes Originais** |
 |---|---|---|
-| História, diálogos, descrições e mensagens | Português | Português |
 | Menus e telas | Português | Português |
+| História, diálogos e mensagens | Português | Português |
+| Descrições (itens, habilidades, magias, Dicionário) | Português | Português |
+| Piadas e trocadilhos dentro das falas | Recriados em português | Recriados em português |
 | Habilidades e golpes | Português (*Queda Estelar, Golpe de Investida*) | Originais (*Star Fall, Charge Strike*) |
 | Magias (Simbologia) | Português (*Rajada de Fogo, Agulhas de Gelo*) | Originais (*Fire Bolt, Ice Needles*) |
 | Itens | Português (*Pedra Filosofal, Scanner Quádruplo*) | Originais (*Philosopher's Stone, Quad Scanner*) |
@@ -45,19 +47,24 @@ Como aplicar: veja **Instalação**, mais abaixo.
 | Troféus de batalha | Português | Frase em português, nomes originais (*"Vença só com o Metal Pipe"*) |
 | Nome próprio com forma em português | Português (*Aldiano, Ronaldo Dyne*) | Originais (*Aldian, Ronald Dyne*) |
 | Nomes próprios (Fayt, Elicoor II, Airyglyph, Diplo…) | Iguais | Iguais |
-| Raças com nome comum (Humano, Povo-Fera) | Português | Português (iguais) |
-| Lugares com nome comum (Castelo Aquaria, Base Lunar) | Português | Português (iguais) |
-| Organizações (Brigada Negra, Federação Pangaláctica) | Português | Português (iguais) |
-| Termos do mundo (Esfera Eterna, Portal do Tempo, simbologia) | Português | Português (iguais) |
-| Títulos (Rei Airyglyph, Senhora Clair) | Português | Português (iguais) |
+| Raças de palavra comum (Humano, Povo-Fera, Montanhês) | Português | Português (iguais) |
+| Raças com nome inventado (Vendeeni, Greem, Menodix) | Iguais | Iguais |
+| Lugares com nome comum (Castelo Aquaria, Base Lunar, Sala de Transporte) | Português | Originais (*Castle Aquaria, Moonbase, Transporter Room*) |
+| Nomes que são trocadilho (Batalhicóptero, Fuliginho, Bicolor, Tempestade) | Português | Originais (*Battlecopter, Sootie, Oddeye, Tempest*) |
+| Organizações (Brigada Negra, Federação Pangaláctica) | Português | Originais (*Black Brigade, Pangalactic Federation*) |
+| Termos do mundo (Esfera Eterna, Portal do Tempo, Energia de Criação) | Português | Originais (*Eternal Sphere, Time Gate, Creation Energy*) |
+| Títulos com nome (o título se traduz, o nome não) | Português (*Rei Airyglyph, Senhora Clair, Conde Woltar*) | Originais (*King Airyglyph, Lady Clair, Count Woltar*) |
+| Palavras comuns de ciência e tecnologia (Cobre, Ponto de Fusão, Estação Espacial) | Português | Português (iguais) |
 | Siglas de status | **PV, PM**, Nv, Próx., ATQ, PC, PH | **HP, MP** (combinam com o HUD original), Nv, Próx., ATQ, PC, PH |
 | Imagens com texto (título, configurações, HUD da batalha, Oficina, Fim de Jogo) | Traduzidas | Originais (inglês) |
 
-- **Nomes Traduzidos:** o jogo todo em português. Só os nomes próprios ficam como no original.
-- **Nomes Originais:** para quem prefere os nomes do jogo original. Ficam como no original os nomes de habilidades,
-  magias, itens, equipamentos e monstros, todos os nomes próprios e as imagens; todo o resto fica em português, inclusive
-  raças, lugares, organizações e termos do mundo feitos de palavras comuns, para a frase continuar natural
-  ("Fayt aprende Star Fall!", "a Brigada Negra ataca Arias").
+- **Nomes Traduzidos:** o jogo todo em português. Só os nomes próprios ficam como no original, mas o título que vem
+  com eles se traduz ("King Airyglyph" = "Rei Airyglyph").
+- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. Em português ficam só os menus, a história
+  (diálogos), as descrições e as palavras comuns (raças como Humano, termos como Ponto de Fusão); todo nome fica como
+  no original (habilidades, magias, itens, monstros, lugares, organizações, termos do mundo, títulos com nome,
+  trocadilhos), além das imagens. A frase em volta segue em português ("Fayt aprende Star Fall!", "a Black Brigade
+  ataca Arias").
 
 As duas usam as mesmas ISOs originais e o mesmo cartão de memória: dá para trocar de versão a qualquer momento.
 
@@ -136,8 +143,8 @@ Você precisa das suas **próprias ISOs** da versão americana (NTSC-U). **Este 
    |---|---|---|---|---|
    | Nomes Traduzidos | 1 | 4658429952 | `52c35154` | `294845cdbc90108d5de30d3c33cf8e44ef2287ef` |
    | Nomes Traduzidos | 2 | 4658692096 | `5a1fad12` | `ad964b48a6c7109e08a65384e8b2bddaea769dc9` |
-   | Nomes Originais | 1 | 4658429952 | `3b8e79b4` | `757cbc5daddcf2a6fb12882c302fd11577530784` |
-   | Nomes Originais | 2 | 4658692096 | `524e71f0` | `a2255c0d49d8dfb0f7f2d6ce8169c8bbafcc2eec` |
+   | Nomes Originais | 1 | 4658429952 | `d01ee8fe` | `2cbbb5640f6961f1b7b8b15d5af75d04757334be` |
+   | Nomes Originais | 2 | 4658692096 | `738d247c` | `f66f259d5b6ac451dcde795af74bc5d349dd3fbf` |
 
 6. Abra a ISO traduzida no PCSX2. Saves do jogo em inglês funcionam normalmente, nas duas versões.
 

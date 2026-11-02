@@ -24,10 +24,10 @@ discos), o guia `LEIA-ME.txt`, os códigos para conferência e os termos de uso.
 
 | Dentro do zip | Para | SHA-256 |
 |---|---|---|
-| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `3fecc09660bbdfd503c6c240b9b2bee19bec81259cdf337aeb6e0bf956ecb48a` |
-| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `127533dc506521b1ccdf7b9be4ad1316a2e1cceb8731f05d7f84a2e71086f94b` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `6a0d073cc49ffd5d7a580b6d5d3e0248aacfd4391951167844523904822f37df` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `85b47d7c426f011fa5f077d37672ddaac362793dc195df807d670a6101a1beac` |
+| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `8871250c60f715a75c5169e6095881248b3504e1fd513e2c7fa4b4c8ea435de9` |
+| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `2da5385b645c3ff399703fe9441da8fcda871559b3827d44d5d4b0adc9af74c9` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `112220d61b378100a22d9ab887555c7a96be6bad6f6c261b0810a058429ec121` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `385b8e1b5e459907a5115405a5dfb796c991597f4c89772d5f9552e58a92a340` |
 
 Como aplicar: veja **Instalação**, mais abaixo.
 
@@ -69,6 +69,8 @@ As duas usam as mesmas ISOs originais e o mesmo cartão de memória: dá para tr
 - Correções de gênero, de termos e de nomes de quem fala; falas de NPC do disco 2 que estavam com nome em inglês.
 - Interface: alcance **Curto / Longo** (C/L na tela de habilidades, CURTO/LONGO no HUD da batalha), **PH** (pontos de
   habilidade), **PC** (pontos de capacidade) e "Barra de Bônus de Batalha".
+- Nomes com significado que estavam em inglês agora em português: a magia **Kabum** (Kaboom), o chefe **Batalhicóptero**,
+  o monstro **Fuliginho** (Sootie) e os dragões **Bicolor** (Oddeye) e **Tempestade** (Tempest).
 
 ## 🎮 O que foi traduzido
 
@@ -132,10 +134,10 @@ Você precisa das suas **próprias ISOs** da versão americana (NTSC-U). **Este 
 
    | Versão | Disco | Tamanho (bytes) | CRC32 | SHA-1 |
    |---|---|---|---|---|
-   | Nomes Traduzidos | 1 | 4658429952 | `da86b372` | `49b571d97b1e008e30d4f13beb230dbde27da5d5` |
-   | Nomes Traduzidos | 2 | 4658692096 | `def6b900` | `48b997951027a27bd71f4fd44513c15faf6d393f` |
-   | Nomes Originais | 1 | 4658429952 | `72050708` | `148604f82707a30b1c8fda17efdf9ad39c813e4e` |
-   | Nomes Originais | 2 | 4658692096 | `a924065f` | `cfd6cfceba928a1f47aa45eab448be84deb5a030` |
+   | Nomes Traduzidos | 1 | 4658429952 | `52c35154` | `294845cdbc90108d5de30d3c33cf8e44ef2287ef` |
+   | Nomes Traduzidos | 2 | 4658692096 | `5a1fad12` | `ad964b48a6c7109e08a65384e8b2bddaea769dc9` |
+   | Nomes Originais | 1 | 4658429952 | `3b8e79b4` | `757cbc5daddcf2a6fb12882c302fd11577530784` |
+   | Nomes Originais | 2 | 4658692096 | `524e71f0` | `a2255c0d49d8dfb0f7f2d6ce8169c8bbafcc2eec` |
 
 6. Abra a ISO traduzida no PCSX2. Saves do jogo em inglês funcionam normalmente, nas duas versões.
 

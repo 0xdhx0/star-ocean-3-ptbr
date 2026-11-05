@@ -1,6 +1,6 @@
 ![Star Ocean: Till the End of Time — Tradução PT-BR](imagens/banner.png)
 
-# 🌌 Star Ocean: Till the End of Time — Tradução PT-BR v1.1
+# 🌌 Star Ocean: Till the End of Time — Tradução PT-BR v1.2
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%202%20(PCSX2)-003791)
@@ -17,17 +17,17 @@ nos **dois discos**.
 > ✅ Os dois discos estão traduzidos, e todos os diálogos foram revisados com o contexto da história e o jeito de falar
 > de cada personagem. Testado no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
 
-## 📥 Download (v1.1)
+## 📥 Download (v1.2)
 
-**[⬇️ Baixar `SO3_PTBR_v1.1.zip`](../../releases/latest)**: as **duas versões** da tradução (patches xdelta dos dois
+**[⬇️ Baixar `SO3_PTBR_v1.2.zip`](../../releases/latest)**: as **duas versões** da tradução (patches xdelta dos dois
 discos), o guia `LEIA-ME.txt`, os códigos para conferência e os termos de uso.
 
 | Dentro do zip | Para | SHA-256 |
 |---|---|---|
-| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `b493e9d39aa348bdf5715748c4b53e5b1e994ef48e28b58885b4bccb4cbb3e75` |
-| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `c8e55da1c6842cd68a5648dc6071824f67c943b440636a3b8e7e4d9db0913a5d` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `a92f137d5dfb367eabed594542ce38c02082ecddd4d3a4327217295411ea8215` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `53931bf7b5ad39d3139a2bcd8ad5a1d8067f3792832b302ee699e8267b0ea694` |
+| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `773f1db7f201d2366bdbb8f5db0aa77fac28a4305ef11ee14350dd8f711b9681` |
+| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `bd23f52c2acfca1526c987df5b91ecd08a9c73cb0627e4b37d7d3e7abe2697d1` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `0644591997b1a69d602a29b1ca8c59625bd553f8355413e1ee0b406a919167e2` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `4db88d2be67810b2a121a2618379b065969bd3f68f6785844ad8e6644dbcbea3` |
 
 Como aplicar: veja **Instalação**, mais abaixo.
 
@@ -46,6 +46,7 @@ Como aplicar: veja **Instalação**, mais abaixo.
 | Monstros e duplas da Arena | Português (*Cocatriz, Vox Poderoso, Rainha Etérea, Dupla Vilã*) | Originais (*Cockatrice, Mighty Vox, Ethereal Queen, Villain Pair*) |
 | Troféus de batalha | Português | Frase em português, nomes originais (*"Vença só com Charge"*, *"Derrote o Giant Crab em 1min"*) |
 | Lugares (mapas e cidades), inclusive os de nome comum | Português (*Castelo Aquaria, Base Lunar, Sala de Transporte*) | Originais (*Castle Aquaria, Moonbase, Transporter Room*) |
+| Lojas e seus donos, e lugares só citados | Português (*Batata Jack, Cortina de Ferro, Estrada do Dragão*) | Português (iguais) |
 | Regiões que não são mapa (reinos, impérios, continentes, setores, sistemas) | Português (*Reino de Airyglyph, Setor Teta, Sistema Solar*) | Português (iguais) |
 | Nomes que são trocadilho (Batalhicóptero, Fuliginho, Bicolor, Tempestade) | Português | Originais (*Battlecopter, Sootie, Oddeye, Tempest*) |
 | Nome próprio com forma em português | Português (*Aldiano, Ronaldo Dyne*) | Originais (*Aldian, Ronald Dyne*) |
@@ -62,9 +63,9 @@ Como aplicar: veja **Instalação**, mais abaixo.
 - **Nomes Traduzidos:** o jogo todo em português. Só os nomes próprios ficam como no original, mas o título que vem
   com eles se traduz ("King Airyglyph" = "Rei Airyglyph").
 - **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. É igual à Nomes Traduzidos, menos o que se
-  procura num guia: os nomes de **lugares, itens, equipamentos, habilidades, magias e monstros** (e os trocadilhos
-  dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
-  descrições, Dicionário, organizações, termos do mundo e títulos com nome. A frase em volta segue em português
+  procura num guia: os nomes de **cidades e mapas, itens, equipamentos, habilidades, magias e monstros** (e os
+  trocadilhos dessas coisas) ficam como no original, além das imagens. Todo o resto continua em português: menus, história,
+  descrições, Dicionário, lojas, organizações, termos do mundo e títulos com nome. A frase em volta segue em português
   ("Fayt aprende Star Fall!", "a Brigada Negra ataca Arias", "o Rei Airyglyph espera no Airyglyph Castle").
 
 As duas usam as mesmas ISOs originais e o mesmo cartão de memória: dá para trocar de versão a qualquer momento.
@@ -87,7 +88,8 @@ As duas usam as mesmas ISOs originais e o mesmo cartão de memória: dá para tr
 - **Medidas no lugar:** cada caixa de diálogo foi conferida pixel a pixel para o texto caber no espaço original.
 - **Glossário único:** naves no feminino ("a Diplo"), termos padronizados, nomes de itens e golpes vindos de uma lista
   mestre conferida com guias do jogo.
-- **Rótulos de menu** desenhados no estilo da fonte original (Nv, PV, PM, ATQ…).
+- **Textos desenhados em letras do próprio jogo** refeitos no mesmo estilo: rótulos de menu (Nv, PV, PM, ATQ…), os sete
+  Livros Antigos, o fim de partida do tabuleiro das Ruínas de Mosel e o terminal da Blair.
 
 ## 🚫 O que não foi traduzido (de propósito)
 
@@ -115,7 +117,7 @@ Você precisa das suas **próprias ISOs** da versão americana (NTSC-U). **Este 
 
 ## 💾 Instalação
 
-1. Baixe o `SO3_PTBR_v1.1.zip` na página de [Releases](../../releases) e descompacte.
+1. Baixe o `SO3_PTBR_v1.2.zip` na página de [Releases](../../releases) e descompacte.
 2. Escolha **uma** versão: a pasta `NomesTraduzidos` ou a pasta `NomesOriginais`.
 3. **Faça uma cópia** das suas ISOs originais.
 4. Aplique o patch de cada disco da versão escolhida:
@@ -131,10 +133,10 @@ Você precisa das suas **próprias ISOs** da versão americana (NTSC-U). **Este 
 
    | Versão | Disco | Tamanho (bytes) | CRC32 | SHA-1 |
    |---|---|---|---|---|
-   | Nomes Traduzidos | 1 | 4658429952 | `ee6a6aca` | `a434b30cc5e32f60d431d5efa4bf6d9bdca12ead` |
-   | Nomes Traduzidos | 2 | 4658692096 | `4355d0c9` | `43cdfeb155249ecb3d40bc5886ebdd6e71c656d8` |
-   | Nomes Originais | 1 | 4658429952 | `eaf74201` | `53fde6a4d159fef3d968ba7c6740d7efa89386eb` |
-   | Nomes Originais | 2 | 4658692096 | `3d1db484` | `f83033dd1b43c5dc7fb0a7b9b8ec318f6296e827` |
+   | Nomes Traduzidos | 1 | 4658429952 | `e46e93a2` | `66da90d85d6005641d20d8505d08cc5c52c417a7` |
+   | Nomes Traduzidos | 2 | 4658692096 | `d1b250c9` | `8d5c371d9182cfcab04df3d5ae3a88e0345203c8` |
+   | Nomes Originais | 1 | 4658429952 | `f077f8d1` | `ba37bde192c1bc5b7d887899a6b28c303753197b` |
+   | Nomes Originais | 2 | 4658692096 | `214c42b0` | `c699e5dfe70f0973087fa45d8df16fd0da2a9350` |
 
 6. Abra a ISO traduzida no PCSX2. Saves do jogo em inglês funcionam normalmente, nas duas versões.
 
@@ -168,7 +170,7 @@ Nomes Originais), o disco, o lugar do jogo e, se puder, mande um print. Toda cor
 - **Tradução, revisão e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
 - **Engenharia reversa do formato do disco:** baseada no
   [Star-Ocean-3-ps2-research-toolkit](https://github.com/Starocean101/Star-Ocean-3-ps2-research-toolkit).
-- **Fontes livres (licença OFL)** usadas nas imagens: Arimo, Russo One, Tinos, Cinzel, M PLUS 1p.
+- **Fontes livres (licença OFL)** usadas nas imagens: Arimo, Russo One, Tinos, Cinzel, Orbitron, M PLUS 1p.
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todos os diálogos foram revisados com o contexto da história e o
 jeito de falar de cada personagem, conferidos pixel a pixel para caber nas caixas e testados no PCSX2. Se achar uma

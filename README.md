@@ -1,6 +1,6 @@
 ![Star Ocean: Till the End of Time — Tradução PT-BR](imagens/banner.png)
 
-# 🌌 Star Ocean: Till the End of Time — Tradução PT-BR v1.2
+# 🌌 Star Ocean: Till the End of Time — Tradução PT-BR v1.3
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%202%20(PCSX2)-003791)
@@ -15,19 +15,21 @@ nos **dois discos**.
 (veja o aviso legal no fim desta página).*
 
 > ✅ Os dois discos estão traduzidos, e todos os diálogos foram revisados com o contexto da história e o jeito de falar
-> de cada personagem. Testado no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
+> de cada personagem. **Na v1.3, todo o texto (falas, itens, habilidades, Dicionário e menus) foi revisado de novo
+> comparando com o japonês da versão Director's Cut**: gênero e tratamento dos personagens, nomes com sentido duplo
+> no inglês e palavras que tinham tradução direta. Testado no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
 
-## 📥 Download (v1.2)
+## 📥 Download (v1.3)
 
-**[⬇️ Baixar `SO3_PTBR_v1.2.zip`](../../releases/latest)**: as **duas versões** da tradução (patches xdelta dos dois
+**[⬇️ Baixar `SO3_PTBR_v1.3.zip`](../../releases/latest)**: as **duas versões** da tradução (patches xdelta dos dois
 discos), o guia `LEIA-ME.txt`, os códigos para conferência e os termos de uso.
 
 | Dentro do zip | Para | SHA-256 |
 |---|---|---|
-| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `773f1db7f201d2366bdbb8f5db0aa77fac28a4305ef11ee14350dd8f711b9681` |
-| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `bd23f52c2acfca1526c987df5b91ecd08a9c73cb0627e4b37d7d3e7abe2697d1` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `0644591997b1a69d602a29b1ca8c59625bd553f8355413e1ee0b406a919167e2` |
-| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `4db88d2be67810b2a121a2618379b065969bd3f68f6785844ad8e6644dbcbea3` |
+| `NomesTraduzidos/SO3_PTBR_Disco1.xdelta` | Nomes Traduzidos, disco 1 | `43b61b37d5cecad19d5e2c7995a05e4d5aa3aaa3dc568bddb4d186061aa06092` |
+| `NomesTraduzidos/SO3_PTBR_Disco2.xdelta` | Nomes Traduzidos, disco 2 | `5c2fdb561ee3bd3f70d0be2037bf73380919c397a9cc766971a6fb79bac59d58` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco1.xdelta` | Nomes Originais, disco 1 | `7fca59d5dc0e7e4fbd494f0a9cbcc6f04151e8588be92cd2a7c9677b55ecf430` |
+| `NomesOriginais/SO3_PTBR_NomesOriginais_Disco2.xdelta` | Nomes Originais, disco 2 | `9f07751e5456b424a84a230a7ebe9260f089e1afa68cacf285bb5214c378c675` |
 
 Como aplicar: veja **Instalação**, mais abaixo.
 
@@ -117,7 +119,7 @@ Você precisa das suas **próprias ISOs** da versão americana (NTSC-U). **Este 
 
 ## 💾 Instalação
 
-1. Baixe o `SO3_PTBR_v1.2.zip` na página de [Releases](../../releases) e descompacte.
+1. Baixe o `SO3_PTBR_v1.3.zip` na página de [Releases](../../releases) e descompacte.
 2. Escolha **uma** versão: a pasta `NomesTraduzidos` ou a pasta `NomesOriginais`.
 3. **Faça uma cópia** das suas ISOs originais.
 4. Aplique o patch de cada disco da versão escolhida:
@@ -133,10 +135,10 @@ Você precisa das suas **próprias ISOs** da versão americana (NTSC-U). **Este 
 
    | Versão | Disco | Tamanho (bytes) | CRC32 | SHA-1 |
    |---|---|---|---|---|
-   | Nomes Traduzidos | 1 | 4658429952 | `e46e93a2` | `66da90d85d6005641d20d8505d08cc5c52c417a7` |
-   | Nomes Traduzidos | 2 | 4658692096 | `d1b250c9` | `8d5c371d9182cfcab04df3d5ae3a88e0345203c8` |
-   | Nomes Originais | 1 | 4658429952 | `f077f8d1` | `ba37bde192c1bc5b7d887899a6b28c303753197b` |
-   | Nomes Originais | 2 | 4658692096 | `214c42b0` | `c699e5dfe70f0973087fa45d8df16fd0da2a9350` |
+   | Nomes Traduzidos | 1 | 4658429952 | `e6da249e` | `7c2282b9a8daf7e75abe98b97a10a50e89c2b999` |
+   | Nomes Traduzidos | 2 | 4658692096 | `3a80e674` | `e7ac12e46c35ca5789733c010d3310c3ef8dd68b` |
+   | Nomes Originais | 1 | 4658429952 | `4c6c2199` | `08178ad6f20abea799de551d5fb75dfe1a29161e` |
+   | Nomes Originais | 2 | 4658692096 | `2848883e` | `a4fccb1ae0641597599fc977c236f88fe00945e6` |
 
 6. Abra a ISO traduzida no PCSX2. Saves do jogo em inglês funcionam normalmente, nas duas versões.
 

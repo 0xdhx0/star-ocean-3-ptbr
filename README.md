@@ -20,6 +20,19 @@ nos **dois discos**.
 > no inglês e palavras que tinham tradução direta. *Atualizada em 09/11/2026: "Energy Burst" agora é "Surto de Energia"
 > e o talento "Compounding" agora é "Manipulação", como no Star Ocean 5.* Testado no PCSX2. Se achar algum problema, abra uma [issue](../../issues).
 
+## 📸 Fotos
+
+| | |
+|---|---|
+| ![Tela de título](imagens/fotos/01.jpg) | ![Menu principal](imagens/fotos/02.jpg) |
+| Tela de título | Menu principal |
+| ![Status do Fayt](imagens/fotos/03.jpg) | ![Conversa com a Peppita](imagens/fotos/04.jpg) |
+| Status do Fayt | Conversa com a Peppita |
+| ![Resultados da batalha](imagens/fotos/05.jpg) | ![Golpe especial na batalha](imagens/fotos/06.jpg) |
+| Resultados da batalha | Golpe especial na batalha |
+
+*Fotos da versão Nomes Traduzidos, no emulador PCSX2.*
+
 ## 📥 Download (v1.3)
 
 **[⬇️ Baixar `SO3_PTBR_v1.3.zip`](../../releases/latest)**: as **duas versões** da tradução (patches xdelta dos dois

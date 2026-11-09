@@ -28,7 +28,7 @@ nos **dois discos**.
 | Tela de título | Menu principal |
 | ![Status do Fayt](imagens/fotos/03.jpg) | ![Conversa com a Peppita](imagens/fotos/04.jpg) |
 | Status do Fayt | Conversa com a Peppita |
-| ![Golpe especial na batalha](imagens/fotos/05.jpg) | ![Resultados da batalha](imagens/fotos/06.jpg) |
+| ![Golpe especial na batalha](imagens/fotos/05_golpe.jpg) | ![Resultados da batalha](imagens/fotos/06_resultados.jpg) |
 | Golpe especial na batalha | Resultados da batalha |
 
 *Fotos da versão Nomes Traduzidos, no emulador PCSX2.*

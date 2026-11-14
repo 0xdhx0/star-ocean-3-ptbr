@@ -5,7 +5,7 @@
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%202%20(PCSX2)-003791)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-USA%20(NTSC--U)-555)
-![Release](https://img.shields.io/github/v/release/0xdhx0/star-ocean-3-ptbr?label=patch)
+![Release](https://img.shields.io/github/v/release/0xdhx0/star-ocean-3-ps2-ptbr?label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
 Tradução de fã do **Star Ocean: Till the End of Time** (PlayStation 2, versão americana) para o **português do Brasil**,
